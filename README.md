@@ -1,4 +1,5 @@
 # Applied Programming Notebooks 
+
 Collection of notebooks and code snippets for applied programming 
 
 ## Tools 
@@ -44,8 +45,9 @@ The following are materials which were useful and instructive in the creation of
 
 ### Tools 
 
-(Under Construction) 
+(Under Construction)
 
 - [Basic git commands](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
 - [Advanced git commands](https://docs.gitlab.com/ee/topics/git/git_rebase.html)
+- [Git Guide](https://github.com/git-guides/git-add)
 - [zsh dotfiles](https://github.com/heathyates/applied-programming-notebooks.git)
